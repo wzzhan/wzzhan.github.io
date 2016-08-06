@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-08-05T07:58:05.510Z</updated>
+  <updated>2016-08-06T10:16:55.297Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,13 +16,39 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>My First Post</title>
+    <title>我的新篇章</title>
     <link href="http://yoursite.com/2016/08/05/My-First-Post/"/>
     <id>http://yoursite.com/2016/08/05/My-First-Post/</id>
     <published>2016-08-05T07:58:05.000Z</published>
-    <updated>2016-08-05T07:58:05.510Z</updated>
+    <updated>2016-08-06T10:16:55.297Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="启程"><a href="#启程" class="headerlink" title="启程"></a>启程</h1><ul>
+<li>有这么一句话，想做一件事，最好开始的时间有两个：一个是十年前，一个就是现在。</li>
+</ul>
+<p>想写博客以及很久了，但总觉得写博客是一件非常麻烦的事情，需要花时间和经历来描述一些东西，本身也没有写日记的习惯。所以啊，有些事情自己记得便是了。</p>
+<p>以前总是觉得记忆是可靠的，后来才发现人是喜好，按照自己所相信的来理解这个世界。 所深信的记忆往往会欺骗自己，而且是在不知不觉中影响自己的行为。</p>
+<p>现在，想来还是写些东西记录一下自己的生活。或许会有所收获。</p>
+<h1 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h1><ul>
+<li>镜子只能一瞥，不可久视。</li>
+</ul>
+<p>有这么一个故事，一艘船在海里航行，每次回到港口都需要换掉一部分被腐蚀的船板。 那么当所有的船板都被换了，这艘船还是原来的船吗？</p>
+<p>对于人而言，也是一样，当全身的细胞都换了以后，还是同一个人吗？</p>
+<p>当然，从科学的角度来看 DNA是一样的。 但实际上，人的细胞的DNA不是完全一致的。 比如sperm。 </p>
+<h2 id="我的过去"><a href="#我的过去" class="headerlink" title="我的过去"></a>我的过去</h2><p>从温州到杭州，在从杭州到北京。求学之路，让我不断地认识到这个世界，不断地认识自己。 我是否足够优秀来承担我所需要肩负的责任。</p>
+<p>我是否足够努力，来获得尊重。毅力果然是要比小聪明来的重要，但有天赋的人也不应该放弃自己的灵感。</p>
+<h3 id="灵动的人"><a href="#灵动的人" class="headerlink" title="灵动的人"></a>灵动的人</h3><p>灵动的人应当是怎么样的？ 我不知道。 我大概是比较坦然的人吧。有些事情，我总不喜欢强求。 </p>
+<h3 id="反思"><a href="#反思" class="headerlink" title="反思"></a>反思</h3><p>跟室友打乒乓球的时候，他说有那些打了几十年乒乓球的老头。球路刁钻，很难取胜。但这样的人终究还是不能参加正式比赛。因为他们是靠感觉打球，通过经验取胜。</p>
+<p>但是这样是无法和职业选手较量的， 正规的选手有正规的姿势和动作。在不断地练习中理解和判断局势。</p>
+<p>最为重要的是，打球的时候需要思考。 为什么会是这样的结果。要通过理性的分析战胜所谓的经验。</p>
+<p>这就是差距，做人做事都应当反思，在反思中总结才会有进步。否则就算成了经验丰富的老头，也没什么值得庆幸的。</p>
+]]></content>
     
     <summary type="html">
+    
+      &lt;h1 id=&quot;启程&quot;&gt;&lt;a href=&quot;#启程&quot; class=&quot;headerlink&quot; title=&quot;启程&quot;&gt;&lt;/a&gt;启程&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;有这么一句话，想做一件事，最好开始的时间有两个：一个是十年前，一个就是现在。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;想写博客以及很久了，但
     
     </summary>
     
